@@ -1,0 +1,23 @@
+{
+  "name": "tiagowinehouse",
+  "version": "1.0.2",
+  "description": "Meu cartão pessoal",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Tiago M S Nunes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoWinehouse/tiagowinehouse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TiagoWinehouse/tiagowinehouse/issues"
+  },
+  "homepage": "https://github.com/TiagoWinehouse/tiagowinehouse#readme"
+}
